@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.80b2955618ed82ec1a17f09f16a9a9f6.js"
+  "/precache-manifest.dbcc820315bddc821f41b83c739e774b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "digitalellc"});
